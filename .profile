@@ -45,4 +45,4 @@ fi
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # Oh-my-posh pointer to share a good look with PWSH
-eval "$(oh-my-posh init bash --config "${WSL_PROGRAMS}/oh-my-posh/themes/montys.omp.json")"
+eval "$(oh-my-posh init bash --config "${WSL_PROGRAMS}/oh-my-posh/themes/paradox.omp.json")"
