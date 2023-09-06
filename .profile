@@ -15,6 +15,8 @@ export LESSHISTFILE="$RCFILES/.lesshst"
 export WSL_HOME="/mnt/c/Users/ricar"
 export WSL_PROGRAMS="$WSL_HOME/AppData/Local/Programs"
 
+export BAT_CONFIG_PATH="$RCFILES/bat.conf"
+
 # if running bash
 if [ -n "$BASH_VERSION" ]; then
     if [ -d "$RCFILES" ]; then
